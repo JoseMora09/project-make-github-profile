@@ -66,7 +66,7 @@ Your profile page should have these sections.
 
 ## Additional Instructions
 Go to https://www.markdownguide.org/.  
-- Read the [Getting Started] (https://www.markdownguide.org/getting-started/)
+- Read the [Getting Started](https://www.markdownguide.org/getting-started/)
 - Review the *basic syntax* [cheat sheet](https://www.markdownguide.org/cheat-sheet/).  You will return to this page to make this project.
 
 ### Getting started
