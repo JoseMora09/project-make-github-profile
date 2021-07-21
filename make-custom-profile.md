@@ -82,5 +82,5 @@ Go to https://www.markdownguide.org/.
 4) Follow the steps in the video to clone and begin working on the repository.
 ![GitHub page](./img/clone-repository.png)
 
-5) After cloning the repository, open it in VS code or a comparable editor.  When opening a markdown file in VS code, there is a *preview markdown* button at the top right corner.  This allows you to preview the makrdown output.  *On the left is th markdown file. On the right is the preview file.*
+5) After cloning the repository, open it in VS code.  When opening a markdown file in VS code, there is a *preview markdown* button at the top right corner.  This allows you to preview the makrdown output.  *On the left is th markdown file. On the right is the preview file.*
 ![GitHub page](./img/markdown-preview.png)
