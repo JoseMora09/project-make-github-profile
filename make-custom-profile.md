@@ -30,7 +30,7 @@ For many projects, including this one, students are encouraged to help each othe
 
 | Project competencies |
 | :-- |
-| Demonstrate e comprehension of markdown syntax through implementing all project requirements |
+| Demonstrate comprehension of markdown syntax through implementing all project requirements |
 | Learn through reading documentation (*in this case, reading markdown documentation*)  |
 | Clone and manage a local git repository |
 | Make commits with atomic commit messages |
