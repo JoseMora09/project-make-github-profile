@@ -28,7 +28,7 @@ For many projects, including this one, students are encouraged to help each othe
 - Looking at someone else's code for inspiration is not cheating for this project
 - Copying and pasting others code is not acceptable
 
-| Project competencies |
+| Project objectives |
 | :-- |
 | Demonstrate comprehension of markdown syntax through implementing all project requirements |
 | Learn through reading documentation (*in this case, reading markdown documentation*)  |
